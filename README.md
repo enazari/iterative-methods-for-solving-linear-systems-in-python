@@ -1,4 +1,4 @@
-# Iterative methods for solvling linear systems of equations
+# Iterative methods for solvling linear systems of equations via python
 In the repo there are a number of iterative methods for solvling linear systems of equations.
 Implemented Methods: 
 * __Conjugate Gradient__,  
